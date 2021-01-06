@@ -16,8 +16,9 @@ if x == 2:
     x = int(y)
 if x == 3:
     exit
-num_range = int(input("What is the range you want to guess from?"))
+
 if x == 1:
+    num_range = int(input("What is the range you want to guess from?"))
     #To import random module
     import random
     rnumb = random.randrange(num_range)
