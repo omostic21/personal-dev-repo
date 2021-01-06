@@ -2,10 +2,8 @@
 
 #Author: Omolola O. Okesanjo
 #Creation date: December 10, 2019
-#Copyright (c) 2021 by Omolola O. Okesanjo
 
-#This code was orignially written in December 2019 but has since been fixed and upadted
-#Permission to use, copy, modify, and distribute this code and its documentation for any purpose, without fee, and without written agreement is hereby granted, provided that the above copyright and the appropriate credit is given to me for every occurence of this code in anything"
+
 
 print("Welcome to the Number Guessing game!!")
 x = input('Press 1 to play, press 2 for instructions, press 3 to exit')
