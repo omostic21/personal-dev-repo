@@ -37,7 +37,8 @@ if x == 1:
         else:
             print("Sorry, Better luck next time! " + "The number was " + str(rnumb))
     else:
-        print("You fail!!!" + "The number was " + str(rnumb))
+        a= "You fail!!! The number was {}"
+        print(a.format(str(rnumb)))
 
 import tkinter
 
