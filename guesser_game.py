@@ -39,6 +39,5 @@ if x == 1:
     else:
         a= "You fail!!! The number was {}"
         print(a.format(str(rnumb)))
-
-import tkinter
+    
 
